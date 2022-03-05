@@ -5,3 +5,7 @@ function test() {
 }
 
 export default test;
+
+const newFun = () => {
+  console.log("new changes");
+};
